@@ -7,7 +7,7 @@ library(viridis)
 library(jtools)
 library(car)
 
-bike_data_full <- read.csv('C:\\Users\\kingc\\OneDrive\\Desktop\\ADA\\UniqueDataset.csv')
+bike_data_full <- read.csv('\Desktop\\ADA\\UniqueDataset.csv') # Example link. 
 
 set.seed(500)
 
