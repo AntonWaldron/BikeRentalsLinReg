@@ -1,7 +1,7 @@
 # Logistic Regresssion Project
 set.seed(123)
 library(jtools)
-turnover <- read.csv('C:\\Users\\kingc\\OneDrive\\Desktop\\ADA\\Staff_Turnover.csv')
+turnover <- read.csv('\\Desktop\\ADA\\Staff_Turnover.csv') # Example Link
 
 head(turnover)
 
